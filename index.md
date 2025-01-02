@@ -10,3 +10,7 @@ for i in range(4):
     n += 1
 print(n)
 ```
+###### Checkliste
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
